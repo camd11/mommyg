@@ -2,7 +2,14 @@
 
 MommyG is a Flutter application that provides emotional support and guidance through an AI mother figure. The app offers a nurturing and empathetic experience, helping users manage their emotional well-being through various features.
 
-[![MommyG App Demo](https://img.youtube.com/vi/oAcuuIn8QVg/0.jpg)](https://www.youtube.com/watch?v=oAcuuIn8QVg)
+# Demo Video
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=oAcuuIn8QVg">
+    <img src="https://img.youtube.com/vi/oAcuuIn8QVg/maxresdefault.jpg" alt="MommyG App Demo" width="600">
+  </a>
+  <p>👆 Click to watch the demo video on YouTube 👆</p>
+</div>
 
 ## Features
 
